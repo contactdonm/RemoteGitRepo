@@ -1,0 +1,27 @@
+span{
+    color: antiquewhite;
+    width: 50px;
+    height: 40px;
+    padding-right: 8px;
+}
+
+  
+.blue {
+  background-color: mediumblue;
+  border-bottom: 2px solid mediumblue;
+}
+
+.player {
+  width: 13px;
+  height: 20px;
+  background-color: rgb(255, 0, 0);
+  /* position: absolute; */
+}
+.message {
+  padding: 30px;
+  background-color: #f44336;
+  color: white;
+  visibility: hidden;
+}
+
+.pointer {cursor: pointer;}
